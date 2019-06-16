@@ -1,3 +1,3 @@
-# numerical-calculation-in-Python
-# Many Exercises of many topics in Numerical Calculation using Python (JupyterNotebook)
+# Foundation-Mathematics-for-Computer-Science
+# Many Exercises of many topics in Mathematics for Computer Science using Python (JupyterNotebook)
 # Most of them are written in portuguese
